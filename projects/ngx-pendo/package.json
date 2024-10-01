@@ -1,5 +1,5 @@
 {
-  "name": "@herdwatch-apps/ngx-pendo",
+  "name": "@herdwatch/ngx-pendo",
   "version": "1.14.3-dev.0",
   "description": "A simple wrapper to load Pendo by angular way",
   "contributors": [
